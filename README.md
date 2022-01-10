@@ -26,6 +26,7 @@ Frontend stuff (desktop app):
 - A GUI to allow employees to favorite orders for ease of tracking
 - A GUI to view one existing order in a tab
 - Allows order stage to be advanced by employee
+- A GUI to track amount of orders made by sales by different time periods
 
 Other possible front ends:
 - Mobile app
