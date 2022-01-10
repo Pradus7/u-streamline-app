@@ -9,10 +9,10 @@ Current Features
 Upcoming Features
 ---
 Backend stuff:
-- Working database to store basic order information such as: order date&time, order number, sales name, client name, client phone, client location, and current stage (order created, pending measurement, pending design, pending payment, pending production, pending shipment, pending installation, complete, pending extra shipment)
+- Database to store basic order information such as: order date&time, order number, sales name, client name, client phone, client location, and current stage (order created, pending measurement, pending design, pending payment, pending production, pending shipment, pending installation, complete, pending extra shipment)
 - Ability to create, delete, modify orders (requires data validation)
 - Ability to view all existing orders
-- Ability to include images when creating
+- Ability to include images when creating orders
 - Ability to include and delete images when modifying orders
 - Employee database with employee emails and occupation
 - Ability to create, delete, modify employee data
