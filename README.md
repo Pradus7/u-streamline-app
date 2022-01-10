@@ -1,6 +1,6 @@
 U-Streamline
 ===
-An app to streamline the process of placing an order for U-Artist kitchen and wardrobe productions
+A python app to streamline the process of placing an order for U-Artist kitchen and wardrobe productions
 
 Current Features
 ---
